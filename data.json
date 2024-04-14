@@ -1,0 +1,2663 @@
+{
+  "primitiveDetails": {
+    "primitive": {
+      "primitiveType": "company",
+      "id": "d5278353-e7a0-3020-ae7f-bc5ae6f5a036",
+      "companyName": "HRC Corporation",
+      "hasCompanyLogo": true,
+      "keyId": 83816119,
+      "dunsNumber": "624888574",
+      "leId": "",
+      "employerIdentificationNumber": "133399010",
+      "yearFounded": 1987,
+      "primaryUrl": "http://www.hrccorp.com",
+      "phone": "+1-212-807-7664",
+      "fax": "",
+      "fiscalYearEnd": "",
+      "altNames": ["\"hrc corp\"", "\"hrc corporation\""],
+      "smFacebookPage": "",
+      "smLinkedInPage": "",
+      "smLinkedInCompanyId": "711803",
+      "smTwitterHandle": "",
+      "marketabilityStatus": "",
+      "directMarketingMessage": "Has Not Opted Out of Direct Marketing",
+      "isStopDistribution": "",
+      "viabilityScore": 2,
+      "sales": 2440085.9000000004,
+      "salesUsd": 2440085.9000000004,
+      "salesEur": 2256388.2,
+      "salesGbp": 1962649.3,
+      "numEmployees": 15,
+      "employeesHere": 15,
+      "employeesTotal": 15,
+      "salesRCode": "Modelled",
+      "employeesTotalRCode": "Actual",
+      "employeesHereRCode": "Actual",
+      "assets": "",
+      "assetsUsd": "",
+      "assetsEur": "",
+      "assetsGbp": "",
+      "netWorth": "",
+      "netWorthUsd": "",
+      "netWorthEur": "",
+      "netWorthGbp": "",
+      "currencyIso3": "USD",
+      "onFortune1000": false,
+      "fortune1000Ranking": "",
+      "totalLiabilities": "",
+      "totalLiabilitiesUsd": "",
+      "totalLiabilitiesGbp": "",
+      "totalLiabilitiesEur": "",
+      "preTaxProfit": "",
+      "preTaxProfitUsd": "",
+      "preTaxProfitEur": "",
+      "preTaxProfitGbp": "",
+      "marketValue": "",
+      "marketValueUsd": "",
+      "marketValueEur": "",
+      "marketValueGbp": "",
+      "operatingProfit": "",
+      "operatingProfitUsd": "",
+      "operatingProfitGbp": "",
+      "operatingProfitEur": "",
+      "auditor": "",
+      "importExportStatus": "",
+      "onBritishDoNotCallList": false,
+      "ukRegistrationNumber": "",
+      "reportsAvailable": {
+        "company_mortgages_and_charges": "0",
+        "company_ratios": "0",
+        "company_lf_cashflow_sheet": "0",
+        "company_valuation_tearsheet": "0",
+        "ah1_company_corporate_family": "0",
+        "company_jobs": "1",
+        "company_analyst_reports": "0",
+        "company_geo_segment": "0",
+        "company_cash_flow_as_reported": "0",
+        "company_interim_balance_sheet_as_reported": "0",
+        "company_sec_filings": "0",
+        "company_crush": "0",
+        "it_profile_uk": "0",
+        "company_strategic": "0",
+        "company_interim_income": "0",
+        "company_income_as_reported": "0",
+        "company_bus_segment": "0",
+        "company_chartbook": "0",
+        "company_lf_interim_cashflow_sheet": "0",
+        "company_interim_income_as_reported": "0",
+        "company_annual": "0",
+        "company_interim_cash_flow": "0",
+        "company_stock": "0",
+        "company_interim_cash_flow_as_reported": "0",
+        "company_peers": "1",
+        "company_industry_snapshot": "1",
+        "company_income": "0",
+        "company_spending_risk": "0",
+        "company_balance_sheet": "0",
+        "company_shareholders": "0",
+        "company_competitors": "0",
+        "company_industry_snapshot_pdf": "1",
+        "company_credit_us": "1",
+        "company_cash_flow": "0",
+        "company_fin_cashflow_sheet_as_reported": "0",
+        "company_lf_balance_sheet": "0",
+        "company_swot": "0",
+        "company_significant_developments": "0",
+        "company_balance_sheet_as_reported": "0",
+        "company_directors": "0",
+        "company_credit_uk": "0",
+        "company_closest": "1",
+        "company_financial_health": "0",
+        "company_interim_balance_sheet": "0",
+        "company_ratio_comparison": "0",
+        "company_fin_balance_sheet_as_reported": "0",
+        "company_lf_annual_ratios_sheet": "0",
+        "company_housedocs": "0",
+        "company_county_court_judgments": "0",
+        "company_corporate_family": "0",
+        "company_fin_interim_cashflow_sheet_as_reported": "0",
+        "it_profile_us": "0"
+      },
+      "activeStatus": "A",
+      "isHQ": "",
+      "hasItHighlights": true,
+      "hasBomboraTopics": true,
+      "squareFootage": 3000,
+      "overview": "",
+      "history": "",
+      "productsAndOperations": "",
+      "manufacturingStatus": "",
+      "signalTrigBankruptcyIpcv": "",
+      "signalTrigConferenceActivityIpcv": "",
+      "signalTrigContractWinIpcv": "",
+      "signalTrigDivestingIpcv": "",
+      "signalTrigExecChangeAllIpcv": "",
+      "signalTrigExecChangeBODIpcv": "",
+      "signalTrigExecChangeCompanyOversightIpcv": "",
+      "signalTrigExecChangeEngineeringIpcv": "",
+      "signalTrigExecChangeFinanceIpcv": "",
+      "signalTrigExecChangeITIpcv": "",
+      "signalTrigExecChangeLegalIpcv": "",
+      "signalTrigExecChangePRIpcv": "",
+      "signalTrigExecChangeSalesMKTGIpcv": "",
+      "signalTrigFDAApprovalIpcv": "",
+      "signalTrigIPOActivityIpcv": "",
+      "signalTrigLaunchingProductIpcv": "",
+      "signalTrigLayoffActivityIpcv": "",
+      "signalTrigLegalIssuesIpcv": "",
+      "signalTrigMandAIpcv": "",
+      "signalTrigNewFacilityOpeningIpcv": "",
+      "signalTrigPartnershipIpcv": "",
+      "signalTrigRelocationIpcv": "",
+      "signalTrigVentureFinancingIpcv": "",
+      "signalTrigAssetIncreaseIpcv": "",
+      "signalTrigAssetDecreaseIpcv": "",
+      "signalTrigEmployeeIncreaseIpcv": "",
+      "signalTrigEmployeeDecreaseIpcv": "",
+      "signalTrigLiabilitiesIncreaseIpcv": "",
+      "signalTrigLiabilitiesDecreaseIpcv": "",
+      "signalTrigProfitIncreaseIpcv": "",
+      "signalTrigProfitDecreaseIpcv": "",
+      "signalTrigRevenueIncreaseIpcv": "",
+      "signalTrigRevenueDecreaseIpcv": "",
+      "signalGeoBusChinaIpcv": 0,
+      "signalGeoBusUKIpcv": 0,
+      "signalGeoBusJapanIpcv": 0,
+      "signalGeoBusGermanyIpcv": 0,
+      "signalGeoBusFranceIpcv": 0,
+      "signalGeoBusIndiaIpcv": 0,
+      "signalGeoBusUnitedStatesIpcv": 1,
+      "signalGeoBusBrazilIpcv": 0,
+      "signalNewsPresenceIpcv": "",
+      "signalPRPresenceIpcv": "",
+      "signalEcommerceSiteIpcv": "",
+      "signalMobileEnabledIpcv": "",
+      "signalHIghBandwidthIpcv": "",
+      "signalPublishesVideoIpcv": "",
+      "signalUsesVideoOnWebsiteIpcv": "",
+      "signalCloudHostedIpcv": "",
+      "signalBigDataIpcv": "",
+      "signalSocialMediaPresenceIpcv": 0.3,
+      "signalMinorityFriendlyIpcv": "",
+      "signalWomanFriendlyIpcv": "",
+      "signalEnvironmentFriendlyIpcv": "",
+      "signalTechnologyAdopterIpcv": "",
+      "signalImporterIpcv": "",
+      "signalExporterIpcv": "",
+      "stockSnapshotDate": "",
+      "stockSnapshotReportedCurrency": "",
+      "stockSnapshotRecentPrice": "",
+      "stockSnapshot52WeeksHigh": "",
+      "stockSnapshot52WeeksLow": "",
+      "stockSnapshotAvgVolume": "",
+      "stockSnapshotMarketValue": "",
+      "stockSnapshotEPS": "",
+      "stockSnapshotPriceToSales": "",
+      "stockSnapshotPriceToEarnings": "",
+      "stockSnapshotPriceToBook": "",
+      "stockSnapshotDividendRate": "",
+      "stockSnapshotBeta": "",
+      "globalUltimateSalesUSD": "",
+      "globalUltimateSalesGBP": "",
+      "globalUltimateSalesEUR": "",
+      "globalUltimateSalesRPT": "",
+      "globalUltimateSalesRPTCurrency": "",
+      "globalUltimateSalesRCode": "",
+      "globalUltimateSalesRDescription": "",
+      "globalUltimateSalesScopeCode": "",
+      "globalUltimateSalesScopeDescription": "",
+      "globalUltimateEmployees": "",
+      "globalUltimateEmployeesRCode": "",
+      "globalUltimateEmployeesRDescription": "",
+      "globalUltimateEmployeesScopeCode": "",
+      "globalUltimateEmployeesScopeDescription": "",
+      "domesticUltimateSalesUSD": "",
+      "domesticUltimateSalesGBP": "",
+      "domesticUltimateSalesEUR": "",
+      "domesticUltimateSalesRPT": "",
+      "domesticUltimateSalesRPTCurrency": "",
+      "domesticUltimateSalesRCode": "",
+      "domesticUltimateSalesRDescription": "",
+      "domesticUltimateSalesScopeCode": "",
+      "domesticUltimateSalesScopeDescription": "",
+      "domesticUltimateEmployees": "",
+      "domesticUltimateEmployeesRCode": "",
+      "domesticUltimateEmployeesRDescription": "",
+      "domesticUltimateEmployeesScopeCode": "",
+      "domesticUltimateEmployeesScopeDescription": "",
+      "totalCorpFamilyMembers": 0,
+      "ultimateParentDunsNumber": "",
+      "primaryCompetitorIds": "",
+      "quotedStatus": false,
+      "franchiseStatus": "",
+      "isFemaleOwned": "",
+      "isMinorityOwned": "",
+      "isDomesticUltimate": "",
+      "homeBasedBusinessStatus": "",
+      "ownsRentsCode": "Rents",
+      "prescreenScore": "Low Risk",
+      "componentId": "fd9da7c5-b56b-38d1-bcae-6ea581d0a0bb",
+      "hasUccData": "",
+      "sales1YearGrowth": "",
+      "employees1YearGrowth": "",
+      "otherNames": "",
+      "legalStatusCode": "451",
+      "legalStatusType": "Corporation",
+      "swotPubDate": "",
+      "companyEmails": "",
+      "securities": [],
+      "businessDescriptions": [
+        {
+          "description": "Hrc Corporation is primarily engaged in the operation of nonresidential buildings.",
+          "isPrimary": true,
+          "vendor": {
+            "vendorFeedId": 110,
+            "vendorFeedName": "DirectPlusUS",
+            "displayName": "D&B",
+            "copyrightAlias": "D&B"
+          }
+        }
+      ],
+      "registrationNumbers": [
+        {
+          "registrationNumber": "1148683",
+          "priority": 1,
+          "registrationType": {
+            "longDescription": "Business Registration Number (US)"
+          }
+        },
+        {
+          "registrationNumber": "13-3399010",
+          "priority": 2,
+          "registrationType": {
+            "longDescription": "Federal Taxpayer Identification Number (US)"
+          }
+        }
+      ],
+      "summaryCurrentRatio": [],
+      "summaryQuickRatio": [],
+      "summaryNetProfitMargin": [],
+      "summaryReturnOnAssets": [],
+      "summaryReturnOnEquity": [],
+      "summarySales5YearGrowth": [],
+      "summaryDebtToEquity": [],
+      "industryCurrentRatio": [],
+      "industryQuickRatio": [],
+      "industryNetProfitMargin": [],
+      "industryReturnOnAssets": [],
+      "industryReturnOnEquity": [],
+      "industrySales5YearGrowth": [],
+      "industryDebtToEquity": [],
+      "industries": [
+        { "isPrimary": true, "industry": {} },
+        {
+          "isPrimary": true,
+          "industry": {
+            "id": "5ab1ee28-173e-3c55-88e2-5f12379a1a83",
+            "source": "ANZSIC",
+            "code": "6712",
+            "sicCodeId": 4694300,
+            "shortDescription": "Non-Residential Property Operators",
+            "reportsAvailable": {
+              "industry_analysts": "1",
+              "industry_latest_news_stories": "1",
+              "industry_firstresearch": "0",
+              "industry_related": "0",
+              "industry_family": "0",
+              "industry_market_share": "0",
+              "industry_activities": "1",
+              "industry_summary": "1",
+              "industry_all_market_research": "1",
+              "industry_peer": "1",
+              "industry_stat_usa": "0",
+              "industry_related_sites": "1",
+              "industry_freedonia_focus": "1",
+              "industry_bmi": "0",
+              "industry_snapshot": "0",
+              "industry_euromonitor": "0",
+              "industry_emd_industry": "0",
+              "industry_rma_norms": "0",
+              "industry_market_line_profile": "1"
+            }
+          }
+        },
+        {
+          "isPrimary": true,
+          "industry": {
+            "id": "9957ea58-6efc-3386-8fd8-f7a1158e36b2",
+            "source": "GDSSIC",
+            "code": "65120100",
+            "sicCodeId": 95020235,
+            "shortDescription": "Commercial and industrial building operation",
+            "reportsAvailable": {
+              "industry_analysts": "1",
+              "industry_latest_news_stories": "1",
+              "industry_firstresearch": "1",
+              "industry_related": "0",
+              "industry_family": "0",
+              "industry_market_share": "0",
+              "industry_activities": "0",
+              "industry_summary": "1",
+              "industry_all_market_research": "0",
+              "industry_peer": "1",
+              "industry_stat_usa": "0",
+              "industry_related_sites": "1",
+              "industry_freedonia_focus": "0",
+              "industry_bmi": "0",
+              "industry_snapshot": "0",
+              "industry_euromonitor": "0",
+              "industry_emd_industry": "0",
+              "industry_rma_norms": "0",
+              "industry_market_line_profile": "0"
+            }
+          }
+        },
+        {
+          "isPrimary": true,
+          "industry": {
+            "id": "962d1c7f-e414-3e21-9c40-81a6bb642e42",
+            "source": "ISICRev4",
+            "code": "6810",
+            "sicCodeId": 92000554,
+            "shortDescription": "Real estate activities with own or leased property",
+            "reportsAvailable": {
+              "industry_analysts": "1",
+              "industry_latest_news_stories": "1",
+              "industry_firstresearch": "0",
+              "industry_related": "0",
+              "industry_family": "0",
+              "industry_market_share": "0",
+              "industry_activities": "1",
+              "industry_summary": "1",
+              "industry_all_market_research": "1",
+              "industry_peer": "1",
+              "industry_stat_usa": "0",
+              "industry_related_sites": "1",
+              "industry_freedonia_focus": "1",
+              "industry_bmi": "0",
+              "industry_snapshot": "0",
+              "industry_euromonitor": "0",
+              "industry_emd_industry": "0",
+              "industry_rma_norms": "0",
+              "industry_market_line_profile": "1"
+            }
+          }
+        },
+        { "isPrimary": true, "industry": {} },
+        {
+          "isPrimary": true,
+          "industry": {
+            "id": "cb3da248-df1c-330e-9807-65becd4d5847",
+            "source": "NACERev2",
+            "code": "6820",
+            "sicCodeId": 93000754,
+            "shortDescription": "Renting and operating of own or leased real estate",
+            "reportsAvailable": {
+              "industry_analysts": "1",
+              "industry_latest_news_stories": "1",
+              "industry_firstresearch": "0",
+              "industry_related": "0",
+              "industry_family": "0",
+              "industry_market_share": "0",
+              "industry_activities": "1",
+              "industry_summary": "1",
+              "industry_all_market_research": "1",
+              "industry_peer": "1",
+              "industry_stat_usa": "0",
+              "industry_related_sites": "1",
+              "industry_freedonia_focus": "1",
+              "industry_bmi": "0",
+              "industry_snapshot": "0",
+              "industry_euromonitor": "0",
+              "industry_emd_industry": "0",
+              "industry_rma_norms": "0",
+              "industry_market_line_profile": "1"
+            }
+          }
+        },
+        { "isPrimary": true, "industry": {} },
+        { "isPrimary": true, "industry": {} },
+        {
+          "isPrimary": true,
+          "industry": {
+            "id": "cb16505b-a8fa-372b-9872-175147fc5cf0",
+            "source": "NAICS2017",
+            "code": "531120",
+            "sicCodeId": 96001567,
+            "shortDescription": "Lessors of Nonresidential Buildings (except Miniwarehouses)",
+            "reportsAvailable": {
+              "industry_analysts": "1",
+              "industry_latest_news_stories": "1",
+              "industry_firstresearch": "0",
+              "industry_related": "0",
+              "industry_family": "0",
+              "industry_market_share": "0",
+              "industry_activities": "0",
+              "industry_summary": "1",
+              "industry_all_market_research": "1",
+              "industry_peer": "1",
+              "industry_stat_usa": "0",
+              "industry_related_sites": "1",
+              "industry_freedonia_focus": "0",
+              "industry_bmi": "0",
+              "industry_snapshot": "0",
+              "industry_euromonitor": "0",
+              "industry_emd_industry": "0",
+              "industry_rma_norms": "1",
+              "industry_market_line_profile": "1"
+            }
+          }
+        },
+        {
+          "isPrimary": true,
+          "industry": {
+            "id": "e89f7b38-6893-3302-ba96-19363aade7b7",
+            "source": "NAICS2022",
+            "code": "531120",
+            "sicCodeId": 96031500,
+            "shortDescription": "Lessors of Nonresidential Buildings (except Miniwarehouses)",
+            "reportsAvailable": {
+              "industry_analysts": "0",
+              "industry_latest_news_stories": "0",
+              "industry_firstresearch": "0",
+              "industry_related": "0",
+              "industry_family": "0",
+              "industry_market_share": "0",
+              "industry_activities": "1",
+              "industry_summary": "1",
+              "industry_all_market_research": "0",
+              "industry_peer": "0",
+              "industry_stat_usa": "0",
+              "industry_related_sites": "0",
+              "industry_freedonia_focus": "0",
+              "industry_bmi": "0",
+              "industry_snapshot": "0",
+              "industry_euromonitor": "0",
+              "industry_emd_industry": "0",
+              "industry_rma_norms": "1",
+              "industry_market_line_profile": "1"
+            }
+          }
+        },
+        {
+          "isPrimary": true,
+          "industry": {
+            "id": "647aa816-32e3-37f0-be30-d4152fa8e81f",
+            "source": "UK2003",
+            "code": "70209",
+            "sicCodeId": 51458682,
+            "shortDescription": "Other letting of own property",
+            "reportsAvailable": {
+              "industry_analysts": "1",
+              "industry_latest_news_stories": "1",
+              "industry_firstresearch": "0",
+              "industry_related": "0",
+              "industry_family": "0",
+              "industry_market_share": "0",
+              "industry_activities": "1",
+              "industry_summary": "1",
+              "industry_all_market_research": "1",
+              "industry_peer": "1",
+              "industry_stat_usa": "0",
+              "industry_related_sites": "1",
+              "industry_freedonia_focus": "0",
+              "industry_bmi": "0",
+              "industry_snapshot": "0",
+              "industry_euromonitor": "0",
+              "industry_emd_industry": "0",
+              "industry_rma_norms": "0",
+              "industry_market_line_profile": "1"
+            }
+          }
+        },
+        {
+          "isPrimary": true,
+          "industry": {
+            "id": "ecbd4c6a-49e3-352a-852b-27deebc1ffcd",
+            "source": "UK2007",
+            "code": "68202",
+            "sicCodeId": 60000896,
+            "shortDescription": "Letting and operating of conference and exhibition centres",
+            "reportsAvailable": {
+              "industry_analysts": "1",
+              "industry_latest_news_stories": "1",
+              "industry_firstresearch": "0",
+              "industry_related": "0",
+              "industry_family": "0",
+              "industry_market_share": "0",
+              "industry_activities": "1",
+              "industry_summary": "1",
+              "industry_all_market_research": "1",
+              "industry_peer": "1",
+              "industry_stat_usa": "0",
+              "industry_related_sites": "1",
+              "industry_freedonia_focus": "0",
+              "industry_bmi": "0",
+              "industry_snapshot": "0",
+              "industry_euromonitor": "0",
+              "industry_emd_industry": "0",
+              "industry_rma_norms": "0",
+              "industry_market_line_profile": "1"
+            }
+          }
+        },
+        {
+          "isPrimary": true,
+          "industry": {
+            "id": "df9a938d-a055-3cb7-ad4c-725cbc52c0d6",
+            "source": "US87",
+            "code": "6512",
+            "sicCodeId": 195475,
+            "shortDescription": "Operators of Nonresidential Buildings",
+            "reportsAvailable": {
+              "industry_analysts": "1",
+              "industry_latest_news_stories": "1",
+              "industry_firstresearch": "0",
+              "industry_related": "0",
+              "industry_family": "0",
+              "industry_market_share": "0",
+              "industry_activities": "1",
+              "industry_summary": "1",
+              "industry_all_market_research": "1",
+              "industry_peer": "1",
+              "industry_stat_usa": "0",
+              "industry_related_sites": "1",
+              "industry_freedonia_focus": "0",
+              "industry_bmi": "0",
+              "industry_snapshot": "0",
+              "industry_euromonitor": "0",
+              "industry_emd_industry": "0",
+              "industry_rma_norms": "1",
+              "industry_market_line_profile": "1"
+            }
+          }
+        }
+      ],
+      "swotSection": [],
+      "addresses": [
+        {
+          "addressType": "primary",
+          "address1": "156 5Th Ave Ste 300",
+          "city": "New York",
+          "postalCode": "10010-8221",
+          "msaCode": { "msaCode": 35620 },
+          "nationalRegion": { "name": "Mid-Atlantic" },
+          "state": { "name": "New York" },
+          "country": {
+            "countryId": 42026046,
+            "name": "United States",
+            "iso2": "US",
+            "iso3": "USA"
+          },
+          "latitude": 40.739927,
+          "longitude": -73.99097,
+          "county": { "countyId": 11362, "name": "New York" }
+        }
+      ],
+      "stateOfIncorporation": { "name": "New York" },
+      "ownershipType": {
+        "id": "2f5c1b1d-50e0-3139-a223-cca768a59caf",
+        "name": "Private"
+      },
+      "entityType": {
+        "id": "9d808686-0d01-3391-ba6a-a1d415ce0769",
+        "entityTypeId": "8",
+        "name": "Independent"
+      },
+      "primaryIndustry": {
+        "id": "e446e3e8-9873-38a3-b9db-84490f0e16d9",
+        "sicCodeId": 35,
+        "shortDescription": "Commercial Real Estate Leasing",
+        "reportsAvailable": {
+          "industry_analysts": "1",
+          "industry_latest_news_stories": "1",
+          "industry_firstresearch": "0",
+          "industry_related": "1",
+          "industry_family": "0",
+          "industry_market_share": "1",
+          "industry_activities": "1",
+          "industry_summary": "1",
+          "industry_all_market_research": "1",
+          "industry_peer": "1",
+          "industry_stat_usa": "0",
+          "industry_related_sites": "1",
+          "industry_freedonia_focus": "1",
+          "industry_bmi": "0",
+          "industry_snapshot": "1",
+          "industry_euromonitor": "0",
+          "industry_emd_industry": "0",
+          "industry_rma_norms": "1",
+          "industry_market_line_profile": "1"
+        }
+      },
+      "vendor": {
+        "vendorFeedId": 110,
+        "displayName": "D&B",
+        "copyright": "\u00ef\u00bf\u00bd 2020 Dun & Bradstreet, Inc. All rights reserved."
+      },
+      "parent": {},
+      "industry": {
+        "id": "e446e3e8-9873-38a3-b9db-84490f0e16d9",
+        "source": "OS2010",
+        "code": "35",
+        "sicCodeId": 35,
+        "shortDescription": "Commercial Real Estate Leasing"
+      },
+      "ultimateParent": {
+        "companyName": "HRC Corporation",
+        "keyId": 83816119,
+        "id": "d5278353-e7a0-3020-ae7f-bc5ae6f5a036",
+        "altNames": ["\"hrc corp\"", "\"hrc corporation\""],
+        "dunsNumber": "624888574",
+        "componentId": "fd9da7c5-b56b-38d1-bcae-6ea581d0a0bb"
+      },
+      "domesticUltimateParent": {
+        "companyName": "HRC Corporation",
+        "keyId": 83816119,
+        "id": "d5278353-e7a0-3020-ae7f-bc5ae6f5a036",
+        "altNames": ["\"hrc corp\"", "\"hrc corporation\""],
+        "dunsNumber": "624888574",
+        "componentId": "fd9da7c5-b56b-38d1-bcae-6ea581d0a0bb"
+      },
+      "graveyardedAt": null,
+      "pinned": false,
+      "suppressed": false,
+      "sitePinned": false,
+      "idealProspectScore": 0,
+      "prospectabilityScore": 27,
+      "userFiles": [],
+      "alertLists": [],
+      "notes": [],
+      "suppressedForEssentials": {
+        "company": [
+          "spendCapacity",
+          "leaseBalanceRank",
+          "cardResponseRank",
+          "loanPropensityRank",
+          "totalBalanceRank",
+          "lineOfCreditPropensityRank",
+          "growthTrajectory",
+          "leasePropensityRank"
+        ]
+      }
+    },
+    "fieldMetaData": {
+      "stateOfIncorporation": {
+        "name": {
+          "dataType": "string",
+          "displayOptions": {},
+          "label": "State Or Province"
+        }
+      },
+      "domesticUltimateEmployeesRDescription": {
+        "dataType": "string",
+        "displayOptions": {},
+        "label": "Employees (Domestic Ultimate Total) Reliability Code"
+      },
+      "stockSnapshotBeta": {
+        "dataType": "double",
+        "displayOptions": {},
+        "label": "Beta"
+      },
+      "assetsEur": {
+        "dataType": "double",
+        "displayOptions": { "humanizeable": true },
+        "label": "Assets (EUR)"
+      },
+      "hasBomboraTopics": {
+        "dataType": "boolean",
+        "displayOptions": {},
+        "label": ""
+      },
+      "operatingProfitUsd": {
+        "dataType": "double",
+        "displayOptions": { "humanizeable": true },
+        "label": "Operating Profit (USD)"
+      },
+      "signalTrigExecChangeEngineeringIpcv": {
+        "dataType": "double",
+        "displayOptions": {
+          "signal": true,
+          "description": "The value is a percentile ranking of a company's level of news, filing, and PR activity regarding a Engineering executive change across all companies in the D&B Hoovers Database where activity was detected.  Measures activity detected over the past 90 days.",
+          "color": "#315baf",
+          "shortDescription": "Engineering executive change activity"
+        },
+        "label": "Engineering Executive Change Activity"
+      },
+      "parent": {
+        "companyName": {
+          "dataType": "string",
+          "displayOptions": {
+            "clickable": true,
+            "linkPrefix": "/company/",
+            "gridWidth": 200
+          },
+          "label": "Company Name"
+        },
+        "keyId": { "dataType": "int", "displayOptions": {}, "label": "Key ID" },
+        "id": { "dataType": "string", "displayOptions": {}, "label": "" },
+        "altNames": {
+          "dataType": "string",
+          "displayOptions": {},
+          "label": "Alt Names"
+        },
+        "dunsNumber": {
+          "dataType": "string",
+          "displayOptions": {},
+          "label": "D-U-N-S\u00ef\u00bf\u00bd Number"
+        },
+        "componentId": {
+          "dataType": "string",
+          "displayOptions": {},
+          "label": ""
+        }
+      },
+      "salesRCode": {
+        "dataType": "string",
+        "displayOptions": {},
+        "label": "Sales Reliability Code"
+      },
+      "industrySales5YearGrowth": {
+        "value": {
+          "dataType": "double",
+          "displayOptions": {},
+          "label": "Industry Sales 5 Year Growth"
+        },
+        "periodDate": {
+          "dataType": "string",
+          "displayOptions": { "date": true },
+          "label": "Industry Sales 5 Year Growth Period Date"
+        }
+      },
+      "onBritishDoNotCallList": {
+        "dataType": "boolean",
+        "displayOptions": {},
+        "label": "TPS Flag"
+      },
+      "summaryCurrentRatio": {
+        "value": {
+          "dataType": "double",
+          "displayOptions": {},
+          "label": "Current Ratio"
+        },
+        "periodDate": {
+          "dataType": "string",
+          "displayOptions": { "date": true },
+          "label": "Current Ratio Period Date"
+        }
+      },
+      "isStopDistribution": {
+        "dataType": "boolean",
+        "displayOptions": {},
+        "label": ""
+      },
+      "signalTrigProfitIncreaseIpcv": {
+        "dataType": "double",
+        "displayOptions": {
+          "signal": true,
+          "description": "Scores a company's reported increasing profit activity based on regulatory filings.  The value is a percentile ranking within all companies in the D&B Hoovers database for the same activity. 0 means no activity was detected.  All companies in the D&B Hoovers Database that reported increased profit.  Measures activity detected over the past 90 days.",
+          "color": "#b2b219",
+          "shortDescription": "Has \"profit increasing\" activity"
+        },
+        "label": "Reported Profit Increase"
+      },
+      "globalUltimateEmployeesScopeCode": {
+        "dataType": "string",
+        "displayOptions": {},
+        "label": ""
+      },
+      "reportsAvailable": {
+        "dataType": "other",
+        "displayOptions": {},
+        "label": ""
+      },
+      "signalImporterIpcv": {
+        "dataType": "double",
+        "displayOptions": {
+          "signal": true,
+          "description": "Signals the likelihood that a company is an importer based on evidence found in news stories, the company website, and other information sources.",
+          "color": "#d3700c",
+          "shortDescription": "Is an importer"
+        },
+        "label": "Importer"
+      },
+      "assets": {
+        "dataType": "double",
+        "displayOptions": { "humanizeable": true },
+        "label": "Assets (As Reported)"
+      },
+      "stockSnapshot52WeeksHigh": {
+        "dataType": "double",
+        "displayOptions": {},
+        "label": "52 Weeks High"
+      },
+      "signalTrigVentureFinancingIpcv": {
+        "dataType": "double",
+        "displayOptions": {
+          "signal": true,
+          "description": "Scores a company's venture financing activity based on press releases, business press articles, or SEC filings.  The value is a percentile ranking within all companies in the D&B Hoovers database for the same activity. 0 means no activity was detected.  All companies in the D&B Hoovers Database where any activity was detected.  Measures activity detected over the past 90 days.",
+          "color": "#a167d3",
+          "shortDescription": "Has \"venture financing\" activity"
+        },
+        "label": "Venture Financing Activity"
+      },
+      "domesticUltimateSalesEUR": {
+        "dataType": "double",
+        "displayOptions": { "humanizeable": true },
+        "label": "Sales (Domestic Ultimate Total EUR)"
+      },
+      "swotPubDate": {
+        "dataType": "string",
+        "displayOptions": {},
+        "label": ""
+      },
+      "fortune1000Ranking": {
+        "dataType": "int",
+        "displayOptions": {},
+        "label": "Fortune 1000 Ranking"
+      },
+      "industryCurrentRatio": {
+        "value": {
+          "dataType": "double",
+          "displayOptions": {},
+          "label": "Industry Current Ratio"
+        },
+        "periodDate": {
+          "dataType": "string",
+          "displayOptions": { "date": true },
+          "label": "Industry Current Ratio Period Date"
+        }
+      },
+      "industryDebtToEquity": {
+        "value": {
+          "dataType": "double",
+          "displayOptions": {},
+          "label": "Industry Debt to Equity"
+        },
+        "periodDate": {
+          "dataType": "string",
+          "displayOptions": { "date": true },
+          "label": "Industry Debt to Equity Period Date"
+        }
+      },
+      "signalTrigExecChangeBODIpcv": {
+        "dataType": "double",
+        "displayOptions": {
+          "signal": true,
+          "description": "The value is a percentile ranking of a company's level of news, filing, and PR activity regarding a Board of Directors executive change across all companies in the D&B Hoovers Database where activity was detected.  Measures activity detected over the past 90 days.",
+          "color": "#293da3",
+          "shortDescription": "Board of Directors executive change activity"
+        },
+        "label": "Board of Directors Change Activity"
+      },
+      "globalUltimateSalesRCode": {
+        "dataType": "string",
+        "displayOptions": {},
+        "label": ""
+      },
+      "employerIdentificationNumber": {
+        "dataType": "string",
+        "displayOptions": {},
+        "label": "EIN"
+      },
+      "signalTrigLaunchingProductIpcv": {
+        "dataType": "double",
+        "displayOptions": {
+          "signal": true,
+          "description": "Scores a company's product launch activity based on press releases, business press articles, or SEC filings.  The value is a percentile ranking of a company's level of news, filing, and PR activity regarding a Product Launch across all companies in the D&B Hoovers Database where activity was detected.  Measures activity detected over the past 90 days.",
+          "color": "#b79600",
+          "shortDescription": "Has \"launching products\" activity"
+        },
+        "label": "Product Launches"
+      },
+      "marketabilityStatus": {
+        "dataType": "string",
+        "displayOptions": {},
+        "label": "Marketability Status"
+      },
+      "stockSnapshotPriceToSales": {
+        "dataType": "double",
+        "displayOptions": {},
+        "label": "Price/Sales"
+      },
+      "hasItHighlights": {
+        "dataType": "boolean",
+        "displayOptions": {},
+        "label": ""
+      },
+      "signalGeoBusUnitedStatesIpcv": {
+        "dataType": "double",
+        "displayOptions": {
+          "signal": true,
+          "description": "The value of this signal is set to 100 when a company does business in the United States, zero otherwise.  Determined for all possible companies in the D&B Hoovers database.  Updated at least quarterly.",
+          "color": "#a33100",
+          "shortDescription": "Company does business in United States"
+        },
+        "label": "Does Business in United States"
+      },
+      "history": {
+        "dataType": "string",
+        "displayOptions": {},
+        "label": "Company History"
+      },
+      "signalTrigExecChangeAllIpcv": {
+        "dataType": "double",
+        "displayOptions": {
+          "signal": true,
+          "description": "The value is a percentile ranking of a company's level of news, filing, and PR activity regarding All executive changes across all companies in the D&B Hoovers Database where activity was detected.  Measures activity detected over the past 90 days.",
+          "color": "#c400b2",
+          "shortDescription": "Has executive change activity"
+        },
+        "label": "All Executive Change Activity"
+      },
+      "stockSnapshotRecentPrice": {
+        "dataType": "double",
+        "displayOptions": {},
+        "label": "Recent Price"
+      },
+      "signalTrigProfitDecreaseIpcv": {
+        "dataType": "double",
+        "displayOptions": {
+          "signal": true,
+          "description": "Scores a company's reported decreasing profit activity based on regulatory filings.  The value is a percentile ranking within all companies in the D&B Hoovers database for the same activity. 0 means no activity was detected.  All companies in the D&B Hoovers Database that reported decreased profit.  Measures activity detected over the past 90 days.",
+          "color": "#5884ba",
+          "shortDescription": "Has \"profit decreasing\" activity"
+        },
+        "label": "Reported Profit Decrease"
+      },
+      "businessDescriptions": {
+        "description": {
+          "dataType": "string",
+          "displayOptions": {},
+          "label": "Business Description"
+        },
+        "isPrimary": {
+          "dataType": "boolean",
+          "displayOptions": {},
+          "label": "Primary"
+        },
+        "vendor": {
+          "vendorFeedId": {
+            "dataType": "int",
+            "displayOptions": {},
+            "label": ""
+          },
+          "vendorFeedName": {
+            "dataType": "string",
+            "displayOptions": {},
+            "label": ""
+          },
+          "displayName": {
+            "dataType": "string",
+            "displayOptions": {},
+            "label": ""
+          },
+          "copyrightAlias": {
+            "dataType": "string",
+            "displayOptions": {},
+            "label": "Source"
+          }
+        }
+      },
+      "signalTrigConferenceActivityIpcv": {
+        "dataType": "double",
+        "displayOptions": {
+          "signal": true,
+          "description": "A signal value of  1-100 reflects the degree to which a company is referenced in press releases, business press articles, or SEC filings that discuss conference participation.  0 indicates that no activity was detected.  Measures activity detected over the past 90 days.",
+          "color": "#8c86fc",
+          "shortDescription": "Has conference participation activity"
+        },
+        "label": "Conference Participation"
+      },
+      "signalTrigFDAApprovalIpcv": {
+        "dataType": "double",
+        "displayOptions": {
+          "signal": true,
+          "description": "A signal value of  1-100 reflects the degree to which a company is referenced in press releases, business press articles, or SEC filings that discuss FDA testing and approval activity.  0 indicates that no activity was detected.  Measures activity detected over the past 90 days.",
+          "color": "#dd2a4d",
+          "shortDescription": "Has \"FDA Approval\" activity"
+        },
+        "label": "FDA Approval"
+      },
+      "industries": {
+        "isPrimary": {
+          "dataType": "boolean",
+          "displayOptions": {},
+          "label": "Is Primary"
+        },
+        "industry": {
+          "id": { "dataType": "string", "displayOptions": {}, "label": "" },
+          "source": {
+            "dataType": "string",
+            "displayOptions": {},
+            "label": "Source"
+          },
+          "code": {
+            "dataType": "string",
+            "displayOptions": {},
+            "label": "Code"
+          },
+          "sicCodeId": { "dataType": "int", "displayOptions": {}, "label": "" },
+          "shortDescription": {
+            "dataType": "string",
+            "displayOptions": {},
+            "label": "Short Description"
+          },
+          "reportsAvailable": {
+            "dataType": "other",
+            "displayOptions": {},
+            "label": ""
+          }
+        }
+      },
+      "preTaxProfitEur": {
+        "dataType": "double",
+        "displayOptions": { "humanizeable": true },
+        "label": "Pre Tax Profit (EUR)"
+      },
+      "signalTrigExecChangeSalesMKTGIpcv": {
+        "dataType": "double",
+        "displayOptions": {
+          "signal": true,
+          "description": "The value is a percentile ranking of a company's level of news, filing, and PR activity regarding a Sales/Marketing executive change across all companies in the D&B Hoovers Database where activity was detected.  Measures activity detected over the past 90 days.",
+          "color": "#65ab00",
+          "shortDescription": "Sales/Marketing executive change activity"
+        },
+        "label": "Sales/Marketing Executive Change Activity"
+      },
+      "signalGeoBusUKIpcv": {
+        "dataType": "double",
+        "displayOptions": {
+          "signal": true,
+          "description": "The value of this signal is set to 100 when a company does business in UK, zero otherwise.  Determined for all possible companies in the D&B Hoovers database.  Updated at least quarterly.",
+          "color": "#eaa239",
+          "shortDescription": "Company does business in UK"
+        },
+        "label": "Does Business in UK"
+      },
+      "signalTrigNewFacilityOpeningIpcv": {
+        "dataType": "double",
+        "displayOptions": {
+          "signal": true,
+          "description": "Scores a company's new facility opening activity based on press releases, business press articles, or SEC filings.  The value is a percentile ranking of a company's level of news, filing, and PR activity regarding Opening New Facilities across all companies in the D&B Hoovers Database where activity was detected.  Measures activity detected over the past 90 days.",
+          "color": "#ff8f30",
+          "shortDescription": "Has \"opening new facilities\" activity"
+        },
+        "label": "Opening New Facilities"
+      },
+      "quotedStatus": {
+        "dataType": "boolean",
+        "displayOptions": {},
+        "label": "Quoted Status"
+      },
+      "ownsRentsCode": {
+        "dataType": "string",
+        "displayOptions": {},
+        "label": "Owns/Rents"
+      },
+      "marketValueEur": {
+        "dataType": "double",
+        "displayOptions": { "humanizeable": true },
+        "label": "Market Value (EUR)"
+      },
+      "dunsNumber": {
+        "dataType": "string",
+        "displayOptions": {},
+        "label": "D-U-N-S\u00ef\u00bf\u00bd Number"
+      },
+      "signalTrigAssetDecreaseIpcv": {
+        "dataType": "double",
+        "displayOptions": {
+          "signal": true,
+          "description": "Scores a company's reported decreasing asset value activity based on regulatory filings.  The value is a percentile ranking within all companies in the D&B Hoovers database for the same activity. 0 means no activity was detected.  All companies in the D&B Hoovers Database that reported decreasing assets.  Measures activity detected over the past 90 days.",
+          "color": "#eac00f",
+          "shortDescription": "Has \"assets decreasing\" activity"
+        },
+        "label": "Reported Asset Decrease"
+      },
+      "smTwitterHandle": {
+        "dataType": "string",
+        "displayOptions": {},
+        "label": "Twitter Handle"
+      },
+      "signalGeoBusJapanIpcv": {
+        "dataType": "double",
+        "displayOptions": {
+          "signal": true,
+          "description": "The value of this signal is set to 100 when a company does business in Japan, zero otherwise.  Determined for all possible companies in the D&B Hoovers database.  Updated at least quarterly.",
+          "color": "#e26f7a",
+          "shortDescription": "Company does business in Japan"
+        },
+        "label": "Does Business in Japan"
+      },
+      "signalExporterIpcv": {
+        "dataType": "double",
+        "displayOptions": {
+          "signal": true,
+          "description": "Signals the likelihood that a company is an exporter based on evidence found in news stories, the company website, and other information sources.",
+          "color": "#624db2",
+          "shortDescription": "Is an exporter"
+        },
+        "label": "Exporter"
+      },
+      "signalTrigIPOActivityIpcv": {
+        "dataType": "double",
+        "displayOptions": {
+          "signal": true,
+          "description": "Scores a company's initial public offering activity based on press releases, business press articles, or SEC filings.  The value is a percentile ranking within all companies in the D&B Hoovers database for the same activity. 0 means no activity was detected.  All companies in the D&B Hoovers Database where the same activity was detected.  Measures activity detected over the past 90 days.",
+          "color": "#ffa916",
+          "shortDescription": "Has \"going public\" activity"
+        },
+        "label": "Going Public Activity"
+      },
+      "signalTrigEmployeeDecreaseIpcv": {
+        "dataType": "double",
+        "displayOptions": {
+          "signal": true,
+          "description": "Scores a decrease of a company's workforce size based on D&B Hoovers core data, partner data, and information from the open web.  The value is a percent of the maximum calculated for all companies in the D&B Hoovers database where employee count data can be identified.  A value of 0 means that no employee count data could be identified.  All companies in the D&B Hoovers Database where an employee count could be identified.  Measures activity detected over the past 90 days.",
+          "color": "#f95e62",
+          "shortDescription": "Employee count decreasing"
+        },
+        "label": "Workforce Decreasing"
+      },
+      "registrationNumbers": {
+        "registrationNumber": {
+          "dataType": "string",
+          "displayOptions": {},
+          "label": "Registration Number"
+        },
+        "priority": {
+          "dataType": "int",
+          "displayOptions": {},
+          "label": "Priority"
+        },
+        "registrationType": {
+          "longDescription": {
+            "dataType": "string",
+            "displayOptions": {},
+            "label": "Long Description"
+          }
+        }
+      },
+      "ultimateParent": {
+        "companyName": {
+          "dataType": "string",
+          "displayOptions": {
+            "clickable": true,
+            "linkPrefix": "/company/",
+            "gridWidth": 200
+          },
+          "label": "Company Name"
+        },
+        "keyId": { "dataType": "int", "displayOptions": {}, "label": "Key ID" },
+        "id": { "dataType": "string", "displayOptions": {}, "label": "" },
+        "altNames": {
+          "dataType": "string",
+          "displayOptions": {},
+          "label": "Alt Names"
+        },
+        "dunsNumber": {
+          "dataType": "string",
+          "displayOptions": {},
+          "label": "D-U-N-S\u00ef\u00bf\u00bd Number"
+        },
+        "componentId": {
+          "dataType": "string",
+          "displayOptions": {},
+          "label": ""
+        }
+      },
+      "swotSection": {
+        "swotType": { "dataType": "string", "displayOptions": {}, "label": "" },
+        "swotTitle": { "dataType": "string", "displayOptions": {}, "label": "" }
+      },
+      "signalTrigAssetIncreaseIpcv": {
+        "dataType": "double",
+        "displayOptions": {
+          "signal": true,
+          "description": "Scores a company's reported increasing asset value activity based on regulatory filings.  The value is a percentile ranking within all companies in the D&B Hoovers database for the same activity. 0 means no activity was detected.  All companies in the D&B Hoovers Database that reported increasing assets.  Measures activity detected over the past 90 days.",
+          "color": "#4797a6",
+          "shortDescription": "Has \"assets increasing\" activity"
+        },
+        "label": "Reported Asset Increase"
+      },
+      "ownershipType": {
+        "id": { "dataType": "string", "displayOptions": {}, "label": "" },
+        "name": {
+          "dataType": "string",
+          "displayOptions": {},
+          "label": "Ownership Type"
+        }
+      },
+      "salesEur": {
+        "dataType": "double",
+        "displayOptions": { "humanizeable": true },
+        "label": "Sales (EUR)"
+      },
+      "globalUltimateEmployeesScopeDescription": {
+        "dataType": "string",
+        "displayOptions": {},
+        "label": ""
+      },
+      "signalTrigExecChangeFinanceIpcv": {
+        "dataType": "double",
+        "displayOptions": {
+          "signal": true,
+          "description": "The value is a percentile ranking of a company's level of news, filing, and PR activity regarding a Finance executive change across all companies in the D&B Hoovers Database where activity was detected.  Measures activity detected over the past 90 days.",
+          "color": "#d3700c",
+          "shortDescription": "Finance executive change activity"
+        },
+        "label": "Finance Executive Change Activity"
+      },
+      "operatingProfit": {
+        "dataType": "double",
+        "displayOptions": { "humanizeable": true },
+        "label": "Operating Profit (As Reported)"
+      },
+      "signalTrigExecChangeLegalIpcv": {
+        "dataType": "double",
+        "displayOptions": {
+          "signal": true,
+          "description": "The value is a percentile ranking of a company's level of news, filing, and PR activity regarding a Legal executive change across all companies in the D&B Hoovers Database where activity was detected.  Measures activity detected over the past 90 days.",
+          "color": "#ff5a00",
+          "shortDescription": "Legal executive change activity"
+        },
+        "label": "Legal Executive Change Activity"
+      },
+      "signalTrigLiabilitiesDecreaseIpcv": {
+        "dataType": "double",
+        "displayOptions": {
+          "signal": true,
+          "description": "Scores a company's reported decreasing liabilities activity based on regulatory filings.  The value is a percentile ranking within all companies in the D&B Hoovers database for the same activity. 0 means no activity was detected.  All companies in the D&B Hoovers Database that reported decreasing liabilities.  Measures activity detected over the past 90 days.",
+          "color": "#5e9e65",
+          "shortDescription": "Has \"liabilities decreasing\" activity"
+        },
+        "label": "Reported Liabilities Decrease"
+      },
+      "globalUltimateSalesRDescription": {
+        "dataType": "string",
+        "displayOptions": {},
+        "label": "Sales (Global Ultimate Total) Reliability Code"
+      },
+      "signalTrigLayoffActivityIpcv": {
+        "dataType": "double",
+        "displayOptions": {
+          "signal": true,
+          "description": "Scores a company's layoff activity based on press releases, business press articles, or SEC filings.  The value is a percentile ranking of a company's level of news, filing, and PR activity regarding Layoffs across all companies in the D&B Hoovers Database where activity was detected.  Measures activity detected over the past 90 days.",
+          "color": "#348c8a",
+          "shortDescription": "Has \"layoff\" activity"
+        },
+        "label": "Layoffs"
+      },
+      "stockSnapshotDate": {
+        "dataType": "string",
+        "displayOptions": {},
+        "label": "Date of Data"
+      },
+      "totalLiabilitiesUsd": {
+        "dataType": "double",
+        "displayOptions": { "humanizeable": true },
+        "label": "Liabilities (USD)"
+      },
+      "signalTrigMandAIpcv": {
+        "dataType": "double",
+        "displayOptions": {
+          "signal": true,
+          "description": "Scores a company's merger and acquisition activity based on press releases, business press articles, or SEC filings.  The value is a percentile ranking within all companies in the D&B Hoovers database for the same activity. 0 means no activity was detected.  All companies in the D&B Hoovers Database where any activity was detected.  Measures activity detected over the past 90 days.",
+          "color": "#80af00",
+          "shortDescription": "Has \"m&a involvement\" activity"
+        },
+        "label": "M&A Activity"
+      },
+      "signalCloudHostedIpcv": {
+        "dataType": "double",
+        "displayOptions": {
+          "signal": true,
+          "description": "Signals the likelihood that a company provides cloud-hosted products and services based on information found in news stories, the company's website, and other sources.",
+          "color": "#c11b52",
+          "shortDescription": "Services are cloud hosted"
+        },
+        "label": "Services are Cloud Hosted"
+      },
+      "componentId": {
+        "dataType": "string",
+        "displayOptions": {},
+        "label": ""
+      },
+      "hasCompanyLogo": {
+        "dataType": "boolean",
+        "displayOptions": {},
+        "label": ""
+      },
+      "signalTrigPartnershipIpcv": {
+        "dataType": "double",
+        "displayOptions": {
+          "signal": true,
+          "description": "Scores a company's partnering and alliance activity based on press releases, business press articles, or SEC filings.  The value is a percentile ranking within all companies in the D&B Hoovers database for the same activity. 0 means no activity was detected.  All companies in the D&B Hoovers Database where the same activity was detected.  Measures activity detected over the past 90 days.",
+          "color": "#40a4e0",
+          "shortDescription": "Has \"partnership\" activity"
+        },
+        "label": "Partnering Activity"
+      },
+      "signalUsesVideoOnWebsiteIpcv": {
+        "dataType": "double",
+        "displayOptions": {
+          "signal": true,
+          "description": "Signals whether or not a company uses video to communicate on their corporate web site for all companies in the D&B Hoovers database where a corporate URL is available.",
+          "color": "#962c55",
+          "shortDescription": "Uses video on website"
+        },
+        "label": "Uses Video on Website"
+      },
+      "directMarketingMessage": {
+        "dataType": "string",
+        "displayOptions": {},
+        "label": "Direct Marketing Status"
+      },
+      "ultimateParentDunsNumber": {
+        "dataType": "string",
+        "displayOptions": {},
+        "label": "Global Ultimate D-U-N-S\u00ef\u00bf\u00bd Number"
+      },
+      "signalTrigContractWinIpcv": {
+        "dataType": "double",
+        "displayOptions": {
+          "signal": true,
+          "description": "A signal value of  1-100 reflects the degree to which a company is referenced in press releases, business press articles, or SEC filings that discuss the awarding of contracts.  0 indicates that no activity was detected.  Measures activity detected over the past 90 days.",
+          "color": "#aab210",
+          "shortDescription": "Has contract award activity"
+        },
+        "label": "Contract Awards"
+      },
+      "operatingProfitGbp": {
+        "dataType": "double",
+        "displayOptions": { "humanizeable": true },
+        "label": "Operating Profit (GBP)"
+      },
+      "isMinorityOwned": {
+        "dataType": "boolean",
+        "displayOptions": {},
+        "label": "Minority Owned"
+      },
+      "industry": {
+        "id": { "dataType": "string", "displayOptions": {}, "label": "" },
+        "source": {
+          "dataType": "string",
+          "displayOptions": {},
+          "label": "Source"
+        },
+        "code": { "dataType": "string", "displayOptions": {}, "label": "Code" },
+        "sicCodeId": { "dataType": "int", "displayOptions": {}, "label": "" },
+        "shortDescription": {
+          "dataType": "string",
+          "displayOptions": {},
+          "label": "Short Description"
+        }
+      },
+      "activeStatus": {
+        "dataType": "string",
+        "displayOptions": {},
+        "label": "Active Status"
+      },
+      "signalTrigEmployeeIncreaseIpcv": {
+        "dataType": "double",
+        "displayOptions": {
+          "signal": true,
+          "description": "Scores an increase of a company's workforce size based on D&B Hoovers core data, partner data, and information from the open web.  The value is a percent of the maximum calculated for all companies in the D&B Hoovers database where employee count data can be identified.  A value of 0 means that no employee count data could be identified.  All companies in the D&B Hoovers Database where an employee count could be identified.  Measures activity detected over the past 90 days.",
+          "color": "#4b8900",
+          "shortDescription": "Employee count increasing"
+        },
+        "label": "Workforce Increasing"
+      },
+      "signalTrigLegalIssuesIpcv": {
+        "dataType": "double",
+        "displayOptions": {
+          "signal": true,
+          "description": "Scores a company's legal activity based on press releases, business press articles, or SEC filings.  The value is a percentile ranking of a company's level of news, filing, and PR activity regarding Legal Issues across all companies in the D&B Hoovers Database where activity was detected.  Measures activity detected over the past 90 days.",
+          "color": "#ff573b",
+          "shortDescription": "Has \"legal issues\" activity"
+        },
+        "label": "Legal Issues"
+      },
+      "domesticUltimateSalesRCode": {
+        "dataType": "string",
+        "displayOptions": {},
+        "label": ""
+      },
+      "currencyIso3": {
+        "dataType": "string",
+        "displayOptions": {},
+        "label": "Reporting Currency"
+      },
+      "squareFootage": {
+        "dataType": "int",
+        "displayOptions": {},
+        "label": "Square Footage"
+      },
+      "domesticUltimateSalesRPTCurrency": {
+        "dataType": "string",
+        "displayOptions": {},
+        "label": ""
+      },
+      "isDomesticUltimate": {
+        "dataType": "boolean",
+        "displayOptions": {},
+        "label": "Is Domestic Ultimate"
+      },
+      "signalTrigExecChangeCompanyOversightIpcv": {
+        "dataType": "double",
+        "displayOptions": {
+          "signal": true,
+          "description": "The value is a percentile ranking of a company's level of news, filing, and PR activity regarding a Company Oversight executive change across all companies in the D&B Hoovers Database where activity was detected.  Measures activity detected over the past 90 days.",
+          "color": "#14ad90",
+          "shortDescription": "Company Oversight executive change activity"
+        },
+        "label": "Company Oversight Executive Change Activity"
+      },
+      "primaryCompetitorIds": {
+        "dataType": "string",
+        "displayOptions": {},
+        "label": ""
+      },
+      "employees1YearGrowth": {
+        "dataType": "double",
+        "displayOptions": {},
+        "label": "Employees 1 Year Growth %"
+      },
+      "stockSnapshotMarketValue": {
+        "dataType": "double",
+        "displayOptions": { "humanizeable": true },
+        "label": "Market Value (mil)"
+      },
+      "netWorthUsd": {
+        "dataType": "double",
+        "displayOptions": { "humanizeable": true },
+        "label": "Net Worth (USD)"
+      },
+      "operatingProfitEur": {
+        "dataType": "double",
+        "displayOptions": { "humanizeable": true },
+        "label": "Operating Profit (EUR)"
+      },
+      "assetsUsd": {
+        "dataType": "double",
+        "displayOptions": { "humanizeable": true },
+        "label": "Assets (USD)"
+      },
+      "franchiseStatus": {
+        "dataType": "boolean",
+        "displayOptions": {},
+        "label": "Franchise Status"
+      },
+      "signalTrigBankruptcyIpcv": {
+        "dataType": "double",
+        "displayOptions": {
+          "signal": true,
+          "description": "A signal value of  1-100 reflects the degree to which a company is referenced in press releases, business press articles, or SEC filings that discuss bankruptcy activity.  0 indicates that no activity was detected.  Measures activity detected over the past 90 days.",
+          "color": "#f5c448",
+          "shortDescription": "Has bankruptcy activity"
+        },
+        "label": "Bankruptcy Activity"
+      },
+      "employeesHereRCode": {
+        "dataType": "string",
+        "displayOptions": {},
+        "label": "Employees (Single Site) Reliability Code"
+      },
+      "signalGeoBusFranceIpcv": {
+        "dataType": "double",
+        "displayOptions": {
+          "signal": true,
+          "description": "The value of this signal is set to 100 when a company does business in France, zero otherwise.  Determined for all possible companies in the D&B Hoovers database.  Updated at least quarterly.",
+          "color": "#e40099",
+          "shortDescription": "Company does business in France"
+        },
+        "label": "Does Business in France"
+      },
+      "keyId": { "dataType": "int", "displayOptions": {}, "label": "Key ID" },
+      "fiscalYearEnd": {
+        "dataType": "string",
+        "displayOptions": { "date": true },
+        "label": "Fiscal Year End"
+      },
+      "globalUltimateEmployeesRDescription": {
+        "dataType": "string",
+        "displayOptions": {},
+        "label": "Employees (Global Ultimate Total) Reliability Code"
+      },
+      "domesticUltimateSalesRDescription": {
+        "dataType": "string",
+        "displayOptions": {},
+        "label": "Sales (Domestic Ultimate Total) Reliability Code"
+      },
+      "signalTrigExecChangeITIpcv": {
+        "dataType": "double",
+        "displayOptions": {
+          "signal": true,
+          "description": "The value is a percentile ranking of a company's level of news, filing, and PR activity regarding a IT executive change across all companies in the D&B Hoovers Database where activity was detected.  Measures activity detected over the past 90 days.",
+          "color": "#624db2",
+          "shortDescription": "IT executive change activity"
+        },
+        "label": "IT Executive Change Activity"
+      },
+      "stockSnapshotPriceToEarnings": {
+        "dataType": "double",
+        "displayOptions": {},
+        "label": "Price/Earnings"
+      },
+      "summaryReturnOnEquity": {
+        "value": {
+          "dataType": "double",
+          "displayOptions": {},
+          "label": "Return On Equity"
+        },
+        "periodDate": {
+          "dataType": "string",
+          "displayOptions": { "date": true },
+          "label": "Return On Equity Period Date"
+        }
+      },
+      "signalGeoBusGermanyIpcv": {
+        "dataType": "double",
+        "displayOptions": {
+          "signal": true,
+          "description": "The value of this signal is set to 100 when a company does business in Germany, zero otherwise.  Determined for all possible companies in the D&B Hoovers database.  Updated at least quarterly.",
+          "color": "#747caa",
+          "shortDescription": "Company does business in Germany"
+        },
+        "label": "Does Business in Germany"
+      },
+      "signalGeoBusChinaIpcv": {
+        "dataType": "double",
+        "displayOptions": {
+          "signal": true,
+          "description": "The value of this signal is set to 100 when a company does business in China, zero otherwise.  Determined for all possible companies in the D&B Hoovers database.  Updated at least quarterly.",
+          "color": "#3eb4ff",
+          "shortDescription": "Company does business in China"
+        },
+        "label": "Does Business in China"
+      },
+      "domesticUltimateParent": {
+        "companyName": {
+          "dataType": "string",
+          "displayOptions": {
+            "clickable": true,
+            "linkPrefix": "/company/",
+            "gridWidth": 200
+          },
+          "label": "Company Name"
+        },
+        "keyId": { "dataType": "int", "displayOptions": {}, "label": "Key ID" },
+        "id": { "dataType": "string", "displayOptions": {}, "label": "" },
+        "altNames": {
+          "dataType": "string",
+          "displayOptions": {},
+          "label": "Alt Names"
+        },
+        "dunsNumber": {
+          "dataType": "string",
+          "displayOptions": {},
+          "label": "D-U-N-S\u00ef\u00bf\u00bd Number"
+        },
+        "componentId": {
+          "dataType": "string",
+          "displayOptions": {},
+          "label": ""
+        }
+      },
+      "smFacebookPage": {
+        "dataType": "string",
+        "displayOptions": {},
+        "label": "Facebook Page"
+      },
+      "signalTechnologyAdopterIpcv": {
+        "dataType": "double",
+        "displayOptions": {
+          "signal": true,
+          "description": "Signals the likelihood that a company is a strong adopter of technology solutions based on evidence found in news stories, the company website, and other information sources.",
+          "color": "#315baf",
+          "shortDescription": "Is a technology adopter"
+        },
+        "label": "Technology Adopter"
+      },
+      "summaryReturnOnAssets": {
+        "value": {
+          "dataType": "double",
+          "displayOptions": {},
+          "label": "Return On Assets"
+        },
+        "periodDate": {
+          "dataType": "string",
+          "displayOptions": { "date": true },
+          "label": "Return On Assets Period Date"
+        }
+      },
+      "domesticUltimateEmployees": {
+        "dataType": "int",
+        "displayOptions": {},
+        "label": "Employees (Domestic Ultimate Total)"
+      },
+      "numEmployees": {
+        "dataType": "int",
+        "displayOptions": { "humanizeable": true },
+        "label": "Employees (Blended Sites)"
+      },
+      "signalGeoBusBrazilIpcv": {
+        "dataType": "double",
+        "displayOptions": {
+          "signal": true,
+          "description": "The value of this signal is set to 100 when a company does business in Brazil, zero otherwise.  Determined for all possible companies in the D&B Hoovers database.  Updated at least quarterly.",
+          "color": "#a37400",
+          "shortDescription": "Company does business in Brazil"
+        },
+        "label": "Does Business in Brazil"
+      },
+      "homeBasedBusinessStatus": {
+        "dataType": "boolean",
+        "displayOptions": {},
+        "label": "Home-Based Business"
+      },
+      "assetsGbp": {
+        "dataType": "double",
+        "displayOptions": { "humanizeable": true },
+        "label": "Assets (GBP)"
+      },
+      "summaryQuickRatio": {
+        "value": {
+          "dataType": "double",
+          "displayOptions": {},
+          "label": "Quick Ratio"
+        },
+        "periodDate": {
+          "dataType": "string",
+          "displayOptions": { "date": true },
+          "label": "Quick Ratio Period Date"
+        }
+      },
+      "totalLiabilities": {
+        "dataType": "double",
+        "displayOptions": { "humanizeable": true },
+        "label": "Liabilities (As Reported)"
+      },
+      "totalCorpFamilyMembers": {
+        "dataType": "int",
+        "displayOptions": {},
+        "label": "Corporate Family Members"
+      },
+      "id": { "dataType": "string", "displayOptions": {}, "label": "" },
+      "domesticUltimateSalesScopeDescription": {
+        "dataType": "string",
+        "displayOptions": {},
+        "label": ""
+      },
+      "marketValueUsd": {
+        "dataType": "double",
+        "displayOptions": { "humanizeable": true },
+        "label": "Market Value (USD)"
+      },
+      "signalEnvironmentFriendlyIpcv": {
+        "dataType": "double",
+        "displayOptions": {
+          "signal": true,
+          "description": "Signals the likelihood that the company provides goods or services and/or maintains policies that are environmentally-friendly based on evidence found in news stories, the company website, and other information sources.",
+          "color": "#624db2",
+          "shortDescription": "Is environmentally friendly"
+        },
+        "label": "Environmentally Friendly"
+      },
+      "domesticUltimateSalesRPT": {
+        "dataType": "double",
+        "displayOptions": { "humanizeable": true },
+        "label": "Sales (Domestic Ultimate Total as Reported)"
+      },
+      "summaryNetProfitMargin": {
+        "value": {
+          "dataType": "double",
+          "displayOptions": {},
+          "label": "Profit Margin"
+        },
+        "periodDate": {
+          "dataType": "string",
+          "displayOptions": { "date": true },
+          "label": "Profit Margin Period Date"
+        }
+      },
+      "fax": { "dataType": "string", "displayOptions": {}, "label": "Fax" },
+      "stockSnapshotPriceToBook": {
+        "dataType": "double",
+        "displayOptions": {},
+        "label": "Price/Book"
+      },
+      "stockSnapshotDividendRate": {
+        "dataType": "double",
+        "displayOptions": {},
+        "label": "Dividend Rate"
+      },
+      "primaryIndustry": {
+        "id": { "dataType": "string", "displayOptions": {}, "label": "" },
+        "sicCodeId": { "dataType": "int", "displayOptions": {}, "label": "" },
+        "shortDescription": {
+          "dataType": "string",
+          "displayOptions": {},
+          "label": "Short Description"
+        },
+        "reportsAvailable": {
+          "dataType": "other",
+          "displayOptions": {},
+          "label": ""
+        }
+      },
+      "preTaxProfitUsd": {
+        "dataType": "double",
+        "displayOptions": { "humanizeable": true },
+        "label": "Pre Tax Profit (USD)"
+      },
+      "industryQuickRatio": {
+        "value": {
+          "dataType": "double",
+          "displayOptions": {},
+          "label": "Quick Ratio"
+        },
+        "periodDate": {
+          "dataType": "string",
+          "displayOptions": { "date": true },
+          "label": "Quick Ratio Period Date"
+        }
+      },
+      "primaryUrl": {
+        "dataType": "string",
+        "displayOptions": { "url": true },
+        "label": "URL"
+      },
+      "preTaxProfit": {
+        "dataType": "double",
+        "displayOptions": { "humanizeable": true },
+        "label": "Pre Tax Profit (As Reported)"
+      },
+      "companyName": {
+        "dataType": "string",
+        "displayOptions": {
+          "clickable": true,
+          "linkPrefix": "/company/",
+          "gridWidth": 200
+        },
+        "label": "Company Name"
+      },
+      "smLinkedInCompanyId": {
+        "dataType": "string",
+        "displayOptions": {},
+        "label": "LinkedIn Company ID"
+      },
+      "entityType": {
+        "id": { "dataType": "string", "displayOptions": {}, "label": "" },
+        "entityTypeId": {
+          "dataType": "string",
+          "displayOptions": {},
+          "label": ""
+        },
+        "name": {
+          "dataType": "string",
+          "displayOptions": {},
+          "label": "Entity Type"
+        }
+      },
+      "summaryDebtToEquity": {
+        "value": {
+          "dataType": "double",
+          "displayOptions": {},
+          "label": "Debt to Equity"
+        },
+        "periodDate": {
+          "dataType": "string",
+          "displayOptions": { "date": true },
+          "label": "Debt to Equity Period Date"
+        }
+      },
+      "salesUsd": {
+        "dataType": "double",
+        "displayOptions": { "humanizeable": true },
+        "label": "Sales (USD)"
+      },
+      "globalUltimateEmployees": {
+        "dataType": "int",
+        "displayOptions": {},
+        "label": "Employees (Global Ultimate Total)"
+      },
+      "signalEcommerceSiteIpcv": {
+        "dataType": "double",
+        "displayOptions": {
+          "signal": true,
+          "description": "Signals the extent to which a company in the D&B Hoovers database utilizes Ecommerce as a sales channel or transaction platform or delivers software or services that enable Ecommerce.",
+          "color": "#b76363",
+          "shortDescription": "Conducts eCommerce"
+        },
+        "label": "Ecommerce"
+      },
+      "signalSocialMediaPresenceIpcv": {
+        "dataType": "double",
+        "displayOptions": {
+          "signal": true,
+          "description": "Signals the extent to which a company promotes Social Media channels for communications on its corporate web site for all companies in the D&B Hoovers database where a corporate URL is available.",
+          "color": "#8d679e",
+          "shortDescription": "Has presence on social media"
+        },
+        "label": "Social Media Presence"
+      },
+      "leId": {
+        "dataType": "string",
+        "displayOptions": {},
+        "label": "LEI Number"
+      },
+      "sales": {
+        "dataType": "double",
+        "displayOptions": { "humanizeable": true },
+        "label": "Sales (Total)"
+      },
+      "industryReturnOnEquity": {
+        "value": {
+          "dataType": "double",
+          "displayOptions": {},
+          "label": "Industry Return On Equity"
+        },
+        "periodDate": {
+          "dataType": "string",
+          "displayOptions": { "date": true },
+          "label": "Industry Return On Equity Period Date"
+        }
+      },
+      "manufacturingStatus": {
+        "dataType": "boolean",
+        "displayOptions": {},
+        "label": "Manufacturing Status"
+      },
+      "domesticUltimateSalesGBP": {
+        "dataType": "double",
+        "displayOptions": { "humanizeable": true },
+        "label": "Sales (Domestic Ultimate Total GBP)"
+      },
+      "signalHIghBandwidthIpcv": {
+        "dataType": "double",
+        "displayOptions": {
+          "signal": true,
+          "description": "Signals the likelihood that a company requires high communication bandwidth based on its aggregate ranking for other relevant signals.",
+          "color": "#bf9279",
+          "shortDescription": "Has high bandwidth needs"
+        },
+        "label": "High Bandwidth"
+      },
+      "yearFounded": {
+        "dataType": "int",
+        "displayOptions": {},
+        "label": "Year Founded"
+      },
+      "hasUccData": {
+        "dataType": "boolean",
+        "displayOptions": {},
+        "label": ""
+      },
+      "totalLiabilitiesEur": {
+        "dataType": "double",
+        "displayOptions": { "humanizeable": true },
+        "label": "Liabilities (EUR)"
+      },
+      "industryNetProfitMargin": {
+        "value": {
+          "dataType": "double",
+          "displayOptions": {},
+          "label": "Industry Profit Margin"
+        },
+        "periodDate": {
+          "dataType": "string",
+          "displayOptions": { "date": true },
+          "label": "Industry Profit Margin Period Date"
+        }
+      },
+      "sales1YearGrowth": {
+        "dataType": "double",
+        "displayOptions": {},
+        "label": "Sales 1 Year Growth %"
+      },
+      "marketValue": {
+        "dataType": "double",
+        "displayOptions": { "humanizeable": true },
+        "label": "Market Value (As Reported)"
+      },
+      "importExportStatus": {
+        "dataType": "string",
+        "displayOptions": {},
+        "label": "Import/Export Status"
+      },
+      "netWorthGbp": {
+        "dataType": "double",
+        "displayOptions": { "humanizeable": true },
+        "label": "Net Worth (GBP)"
+      },
+      "globalUltimateSalesEUR": {
+        "dataType": "double",
+        "displayOptions": { "humanizeable": true },
+        "label": "Sales (Global Ultimate Total EUR)"
+      },
+      "signalTrigLiabilitiesIncreaseIpcv": {
+        "dataType": "double",
+        "displayOptions": {
+          "signal": true,
+          "description": "Scores a company's reported increasing liabilities activity based on regulatory filings.  The value is a percentile ranking within all companies in the D&B Hoovers database for the same activity. 0 means no activity was detected.  All companies in the D&B Hoovers Database that reported increasing liabilities.  Measures activity detected over the past 90 days.",
+          "color": "#a85035",
+          "shortDescription": "Has \"liabilities increasing\" activity"
+        },
+        "label": "Reported Liabilities Increase"
+      },
+      "overview": {
+        "dataType": "string",
+        "displayOptions": {},
+        "label": "Company Overview"
+      },
+      "globalUltimateEmployeesRCode": {
+        "dataType": "string",
+        "displayOptions": {},
+        "label": ""
+      },
+      "marketValueGbp": {
+        "dataType": "double",
+        "displayOptions": { "humanizeable": true },
+        "label": "Market Value (GBP)"
+      },
+      "signalPublishesVideoIpcv": {
+        "dataType": "double",
+        "displayOptions": {
+          "signal": true,
+          "description": "Signals whether or not any company in the D&B Hoovers database publishes videos on one one or more corporate YouTube channels.",
+          "color": "#965174",
+          "shortDescription": "Publishes videos"
+        },
+        "label": "Publishes Video"
+      },
+      "industryReturnOnAssets": {
+        "value": {
+          "dataType": "double",
+          "displayOptions": {},
+          "label": "Industry Return On Assets"
+        },
+        "periodDate": {
+          "dataType": "string",
+          "displayOptions": { "date": true },
+          "label": "Industry Return On Assets Period Date"
+        }
+      },
+      "stockSnapshot52WeeksLow": {
+        "dataType": "double",
+        "displayOptions": {},
+        "label": "52 Weeks Low"
+      },
+      "signalTrigRevenueDecreaseIpcv": {
+        "dataType": "double",
+        "displayOptions": {
+          "signal": true,
+          "description": "Scores a company's reported decreasing revenue activity based on regulatory filings.  The value is a percentile ranking within all companies in the D&B Hoovers database for the same activity. 0 means no activity was detected.  All companies in the D&B Hoovers Database that reported a decrease in revenue.  Measures activity detected over the past 90 days.",
+          "color": "#8d679e",
+          "shortDescription": "Has \"revenue decreasing\" activity"
+        },
+        "label": "Reported Revenue Decrease"
+      },
+      "domesticUltimateEmployeesScopeCode": {
+        "dataType": "string",
+        "displayOptions": {},
+        "label": ""
+      },
+      "signalTrigExecChangePRIpcv": {
+        "dataType": "double",
+        "displayOptions": {
+          "signal": true,
+          "description": "The value is a percentile ranking of a company's level of news, filing, and PR activity regarding a Public Relations executive change across all companies in the D&B Hoovers Database where activity was detected.  Measures activity detected over the past 90 days.",
+          "color": "#0066b7",
+          "shortDescription": "Public Relations executive change activity"
+        },
+        "label": "Public Relations Executive Change Activity"
+      },
+      "preTaxProfitGbp": {
+        "dataType": "double",
+        "displayOptions": { "humanizeable": true },
+        "label": "Pre Tax Profit (GBP)"
+      },
+      "legalStatusCode": {
+        "dataType": "string",
+        "displayOptions": {},
+        "label": "Legal Status Code"
+      },
+      "netWorthEur": {
+        "dataType": "double",
+        "displayOptions": { "humanizeable": true },
+        "label": "Net Worth (EUR)"
+      },
+      "employeesTotalRCode": {
+        "dataType": "string",
+        "displayOptions": {},
+        "label": "Employees (Total) Reliability Code"
+      },
+      "employeesHere": {
+        "dataType": "int",
+        "displayOptions": { "humanizeable": true },
+        "label": "Employees (Single Site)"
+      },
+      "signalNewsPresenceIpcv": {
+        "dataType": "double",
+        "displayOptions": {
+          "signal": true,
+          "description": "Signals the level of a company's business news presence relative to other companies with news presence over the last 90 days.",
+          "color": "#e19c89",
+          "shortDescription": "News Presence"
+        },
+        "label": "Recent News Presence"
+      },
+      "salesGbp": {
+        "dataType": "double",
+        "displayOptions": { "humanizeable": true },
+        "label": "Sales (GBP)"
+      },
+      "signalGeoBusIndiaIpcv": {
+        "dataType": "double",
+        "displayOptions": {
+          "signal": true,
+          "description": "The value of this signal is set to 100 when a company does business in India, zero otherwise.  Determined for all possible companies in the D&B Hoovers database.  Updated at least quarterly.",
+          "color": "#895300",
+          "shortDescription": "Company does business in India"
+        },
+        "label": "Does Business in India"
+      },
+      "signalTrigRelocationIpcv": {
+        "dataType": "double",
+        "displayOptions": {
+          "signal": true,
+          "description": "Scores a company's relocation activity based on press releases, business press articles, or SEC filings.  The value is a percentile ranking of a company's level of news, filing, and PR activity regarding Relocation across all companies in the D&B Hoovers Database where activity was detected.  Measures activity detected over the past 90 days.",
+          "color": "#ba7558",
+          "shortDescription": "Has \"relocation\" activity"
+        },
+        "label": "Relocation Activity"
+      },
+      "globalUltimateSalesScopeDescription": {
+        "dataType": "string",
+        "displayOptions": {},
+        "label": ""
+      },
+      "ukRegistrationNumber": {
+        "dataType": "string",
+        "displayOptions": {},
+        "label": "UK Registration Number"
+      },
+      "signalWomanFriendlyIpcv": {
+        "dataType": "double",
+        "displayOptions": {
+          "signal": true,
+          "description": "Signals the likelihood that the company has woman-friendly workplace and policies based on evidence found in news stories, the company website, and other information sources.",
+          "color": "#747caa",
+          "shortDescription": "Is friendly to female employees"
+        },
+        "label": "Female Friendly"
+      },
+      "domesticUltimateEmployeesScopeDescription": {
+        "dataType": "string",
+        "displayOptions": {},
+        "label": ""
+      },
+      "globalUltimateSalesUSD": {
+        "dataType": "double",
+        "displayOptions": { "humanizeable": true },
+        "label": "Sales (Global Ultimate Total USD)"
+      },
+      "isHQ": {
+        "dataType": "boolean",
+        "displayOptions": {},
+        "label": "Is Headquarters"
+      },
+      "signalTrigDivestingIpcv": {
+        "dataType": "double",
+        "displayOptions": {
+          "signal": true,
+          "description": "A signal value of  1-100 reflects the degree to which a company is referenced in press releases, business press articles, or SEC filings that discuss the divestiture of businesses or assets.  0 indicates that no activity was detected.  Measures activity detected over the past 90 days.",
+          "color": "#5f8ba8",
+          "shortDescription": "Has divesting activity"
+        },
+        "label": "Divesting Activity"
+      },
+      "stockSnapshotReportedCurrency": {
+        "dataType": "string",
+        "displayOptions": {},
+        "label": "Reported Currency"
+      },
+      "domesticUltimateSalesScopeCode": {
+        "dataType": "string",
+        "displayOptions": {},
+        "label": ""
+      },
+      "vendor": {
+        "vendorFeedId": {
+          "dataType": "int",
+          "displayOptions": {},
+          "label": ""
+        },
+        "displayName": {
+          "dataType": "string",
+          "displayOptions": {},
+          "label": ""
+        },
+        "copyright": { "dataType": "string", "displayOptions": {}, "label": "" }
+      },
+      "viabilityScore": {
+        "dataType": "int",
+        "displayOptions": {},
+        "label": "Viability Score"
+      },
+      "domesticUltimateSalesUSD": {
+        "dataType": "double",
+        "displayOptions": { "humanizeable": true },
+        "label": "Sales (Domestic Ultimate Total USD)"
+      },
+      "isFemaleOwned": {
+        "dataType": "boolean",
+        "displayOptions": {},
+        "label": "Women Owned"
+      },
+      "globalUltimateSalesGBP": {
+        "dataType": "double",
+        "displayOptions": { "humanizeable": true },
+        "label": "Sales (Global Ultimate Total GBP)"
+      },
+      "signalBigDataIpcv": {
+        "dataType": "double",
+        "displayOptions": {
+          "signal": true,
+          "description": "Signals the likelihood that a company provides products or services related to the storage or analysis of big data based on information found in news stories, the company's website, and other sources.",
+          "color": "#695177",
+          "shortDescription": "Works with big data"
+        },
+        "label": "Big Data"
+      },
+      "smLinkedInPage": {
+        "dataType": "string",
+        "displayOptions": {},
+        "label": "LinkedIn Page"
+      },
+      "signalTrigRevenueIncreaseIpcv": {
+        "dataType": "double",
+        "displayOptions": {
+          "signal": true,
+          "description": "Scores a company's reported revenue increase activity based on regulatory filings.  The value is a percentile ranking within all companies in the D&B Hoovers database for the same activity. 0 means no activity was detected.  All companies in the D&B Hoovers Database that reported an increase in revenue.  Measures activity detected over the past 90 days.",
+          "color": "#da4a00",
+          "shortDescription": "Has \"revene increasing\" activity"
+        },
+        "label": "Reported Revenue Increase"
+      },
+      "productsAndOperations": {
+        "dataType": "string",
+        "displayOptions": {},
+        "label": "Products & Operations"
+      },
+      "companyEmails": {
+        "dataType": "string",
+        "displayOptions": {},
+        "label": "Company Emails"
+      },
+      "summarySales5YearGrowth": {
+        "value": {
+          "dataType": "double",
+          "displayOptions": {},
+          "label": "Sales 5 Year Growth"
+        },
+        "periodDate": {
+          "dataType": "string",
+          "displayOptions": { "date": true },
+          "label": "Sales 5 Year Growth Period Date"
+        }
+      },
+      "securities": {
+        "tickerSymbol": {
+          "dataType": "string",
+          "displayOptions": {},
+          "label": "Ticker"
+        },
+        "exchange": {
+          "stockExchange": {
+            "dataType": "string",
+            "displayOptions": {},
+            "label": "Exchange"
+          },
+          "quoteExchangeCode": {
+            "dataType": "string",
+            "displayOptions": {},
+            "label": ""
+          }
+        }
+      },
+      "employeesTotal": {
+        "dataType": "int",
+        "displayOptions": { "humanizeable": true },
+        "label": "Employees (Total)"
+      },
+      "domesticUltimateEmployeesRCode": {
+        "dataType": "string",
+        "displayOptions": {},
+        "label": ""
+      },
+      "onFortune1000": {
+        "dataType": "boolean",
+        "displayOptions": {},
+        "label": "Fortune 1000 Ranking Flag"
+      },
+      "signalMinorityFriendlyIpcv": {
+        "dataType": "double",
+        "displayOptions": {
+          "signal": true,
+          "description": "Signals the likelihood that the company has minority-friendly workplace and policies based on evidence found in news stories, the company website, and other information sources.",
+          "color": "#816fa8",
+          "shortDescription": "Is friendly to minority employees"
+        },
+        "label": "Minority Friendly"
+      },
+      "auditor": {
+        "dataType": "string",
+        "displayOptions": {},
+        "label": "Auditor"
+      },
+      "altNames": {
+        "dataType": "string",
+        "displayOptions": {},
+        "label": "Alt Names"
+      },
+      "globalUltimateSalesScopeCode": {
+        "dataType": "string",
+        "displayOptions": {},
+        "label": ""
+      },
+      "prescreenScore": {
+        "dataType": "string",
+        "displayOptions": {},
+        "label": "D&B Prescreen Score"
+      },
+      "totalLiabilitiesGbp": {
+        "dataType": "double",
+        "displayOptions": { "humanizeable": true },
+        "label": "Liabilities (GBP)"
+      },
+      "otherNames": {
+        "dataType": "string",
+        "displayOptions": {},
+        "label": "Tradestyle"
+      },
+      "stockSnapshotAvgVolume": {
+        "dataType": "double",
+        "displayOptions": { "humanizeable": true },
+        "label": "Avg. Volume (mil)"
+      },
+      "globalUltimateSalesRPTCurrency": {
+        "dataType": "string",
+        "displayOptions": {},
+        "label": ""
+      },
+      "phone": { "dataType": "string", "displayOptions": {}, "label": "Phone" },
+      "stockSnapshotEPS": {
+        "dataType": "double",
+        "displayOptions": {},
+        "label": "EPS"
+      },
+      "globalUltimateSalesRPT": {
+        "dataType": "double",
+        "displayOptions": { "humanizeable": true },
+        "label": "Sales (Global Ultimate Total as Reported)"
+      },
+      "addresses": {
+        "addressType": {
+          "dataType": "other",
+          "displayOptions": {},
+          "label": ""
+        },
+        "addressTypeCode": {
+          "dataType": "string",
+          "displayOptions": {},
+          "label": "Address Type"
+        },
+        "address1": {
+          "dataType": "string",
+          "displayOptions": {},
+          "label": "Address Line 1"
+        },
+        "address2": {
+          "dataType": "string",
+          "displayOptions": {},
+          "label": "Address Line 2"
+        },
+        "address3": {
+          "dataType": "string",
+          "displayOptions": {},
+          "label": "Address Line 3"
+        },
+        "city": { "dataType": "string", "displayOptions": {}, "label": "City" },
+        "postalCode": {
+          "dataType": "string",
+          "displayOptions": {},
+          "label": "Postal Code"
+        },
+        "postalArea": {
+          "dataType": "string",
+          "displayOptions": {},
+          "label": "UK Postal Area"
+        },
+        "postalDistrict": {
+          "dataType": "string",
+          "displayOptions": {},
+          "label": "UK Postal District"
+        },
+        "msaCode": {
+          "msaCode": { "dataType": "int", "displayOptions": {}, "label": "" }
+        },
+        "nationalRegion": {
+          "name": {
+            "dataType": "string",
+            "displayOptions": {},
+            "label": "National Region"
+          }
+        },
+        "state": {
+          "name": {
+            "dataType": "string",
+            "displayOptions": {},
+            "label": "State Or Province"
+          }
+        },
+        "country": {
+          "countryId": { "dataType": "int", "displayOptions": {}, "label": "" },
+          "name": {
+            "dataType": "string",
+            "displayOptions": {},
+            "label": "Country/Region"
+          },
+          "iso2": { "dataType": "string", "displayOptions": {}, "label": "" },
+          "iso3": { "dataType": "string", "displayOptions": {}, "label": "" }
+        },
+        "latitude": {
+          "dataType": "double",
+          "displayOptions": {},
+          "label": "Latitude"
+        },
+        "longitude": {
+          "dataType": "double",
+          "displayOptions": {},
+          "label": "Longitude"
+        },
+        "county": {
+          "countyId": { "dataType": "int", "displayOptions": {}, "label": "" },
+          "name": {
+            "dataType": "string",
+            "displayOptions": {},
+            "label": "County"
+          }
+        }
+      },
+      "legalStatusType": {
+        "dataType": "string",
+        "displayOptions": {},
+        "label": "D&B Legal Status Type"
+      },
+      "signalPRPresenceIpcv": {
+        "dataType": "double",
+        "displayOptions": {
+          "signal": true,
+          "description": "Signals the level of a company's press release presence relative to other companies who distributed press releases over the last 90 days.",
+          "color": "#a85035",
+          "shortDescription": "PR Presence"
+        },
+        "label": "Recent Press Release Presence"
+      },
+      "netWorth": {
+        "dataType": "double",
+        "displayOptions": { "humanizeable": true },
+        "label": "Net Worth (As Reported)"
+      },
+      "signalMobileEnabledIpcv": {
+        "dataType": "double",
+        "displayOptions": {
+          "signal": true,
+          "description": "Signals when a company has corporate web site that supports mobile access or has applications developed for mobile devices.",
+          "color": "#ba7558",
+          "shortDescription": "Has mobile enabled site and apps"
+        },
+        "label": "Mobile Enabled"
+      }
+    },
+    "reports": [
+      {
+        "id": "profile",
+        "label": "Core",
+        "reportTypes": [
+          {
+            "id": "company_summary_old",
+            "label": "company_summary_old",
+            "url": "/api/report/company/d5278353-e7a0-3020-ae7f-bc5ae6f5a036/company_summary_old",
+            "csvUrl": "/api/report/company_summary_old/company/d5278353-e7a0-3020-ae7f-bc5ae6f5a036?exportCsv=true&name=HRC+Corporation",
+            "remote": true,
+            "suppressUiLink": true,
+            "demoFeature": false,
+            "type": "ExternalReportType",
+            "concatId": null,
+            "isPdf": false,
+            "isXls": false,
+            "isWord": false
+          },
+          {
+            "id": "company_summary",
+            "label": "Company Summary",
+            "url": "/api/report/company/d5278353-e7a0-3020-ae7f-bc5ae6f5a036/company_summary",
+            "csvUrl": "/api/report/company_summary/company/d5278353-e7a0-3020-ae7f-bc5ae6f5a036?exportCsv=true&name=HRC+Corporation",
+            "remote": false,
+            "suppressUiLink": false,
+            "demoFeature": false,
+            "type": "LocalReportType",
+            "concatId": "summary"
+          },
+          {
+            "id": "company_contacts",
+            "label": "Site Contacts",
+            "url": "/api/report/company/d5278353-e7a0-3020-ae7f-bc5ae6f5a036/company_contacts",
+            "remote": false,
+            "reportType": "contact",
+            "suppressUiLink": false,
+            "filterJson": "{\"facetName\": \"contactCompanyIdFacet\", \"value\":\"d5278353-e7a0-3020-ae7f-bc5ae6f5a036\", \"label\": \"HRC Corporation\"}",
+            "orFilterJson": "",
+            "sortByJson": "",
+            "demoFeature": false,
+            "type": "SearchReportType",
+            "concatId": "contacts"
+          },
+          {
+            "id": "company_signals",
+            "label": "Signals",
+            "url": "/api/report/company/d5278353-e7a0-3020-ae7f-bc5ae6f5a036/company_signals",
+            "csvUrl": "/api/report/company_signals/company/d5278353-e7a0-3020-ae7f-bc5ae6f5a036?exportCsv=true&name=HRC+Corporation",
+            "remote": false,
+            "suppressUiLink": false,
+            "demoFeature": false,
+            "type": "LocalReportType",
+            "concatId": "signals"
+          },
+          {
+            "id": "company_news",
+            "label": "News",
+            "url": "/api/report/company/d5278353-e7a0-3020-ae7f-bc5ae6f5a036/company_news",
+            "remote": false,
+            "reportType": "article",
+            "suppressUiLink": false,
+            "filterJson": "[{\"facetName\":\"articleCompanyIdWithTextFilter\",\"value\":\"d5278353-e7a0-3020-ae7f-bc5ae6f5a036\"}]",
+            "orFilterJson": "",
+            "sortByJson": "[{\"article\":[{\"dateTime_dth\":\"desc\"}]}]",
+            "demoFeature": false,
+            "type": "SearchReportType",
+            "concatId": "news"
+          },
+          {
+            "id": "company_triggers",
+            "label": "Triggers",
+            "url": "/api/report/company/d5278353-e7a0-3020-ae7f-bc5ae6f5a036/company_triggers",
+            "remote": false,
+            "reportType": "event",
+            "suppressUiLink": false,
+            "filterJson": "{\"facetName\": \"eventCompanyIdFacet\", \"value\":\"d5278353-e7a0-3020-ae7f-bc5ae6f5a036\", \"label\": \"HRC Corporation\"}",
+            "orFilterJson": "",
+            "sortByJson": "[{\"event\":[{\"dateTime_dth\":\"desc\"}]}]",
+            "demoFeature": false,
+            "type": "SearchReportType",
+            "concatId": "triggers"
+          },
+          {
+            "id": "onestop",
+            "label": "onestop",
+            "url": "/api/report/company/d5278353-e7a0-3020-ae7f-bc5ae6f5a036/onestop",
+            "csvUrl": "/api/report/onestop/company/d5278353-e7a0-3020-ae7f-bc5ae6f5a036?exportCsv=true&name=HRC+Corporation",
+            "remote": true,
+            "suppressUiLink": false,
+            "demoFeature": false,
+            "type": "ExternalReportType",
+            "concatId": null,
+            "isPdf": true,
+            "isXls": false,
+            "isWord": false
+          },
+          {
+            "id": "one_stop_v2",
+            "label": "one_stop_v2",
+            "url": "/api/report/company/d5278353-e7a0-3020-ae7f-bc5ae6f5a036/one_stop_v2",
+            "csvUrl": "/api/report/one_stop_v2/company/d5278353-e7a0-3020-ae7f-bc5ae6f5a036?exportCsv=true&name=HRC+Corporation",
+            "remote": false,
+            "suppressUiLink": false,
+            "demoFeature": true,
+            "type": "PdfReportType",
+            "concatId": null
+          },
+          {
+            "id": "company_user_files",
+            "label": "company_user_files",
+            "url": "/api/report/company/d5278353-e7a0-3020-ae7f-bc5ae6f5a036/company_user_files",
+            "csvUrl": "/api/report/company_user_files/company/d5278353-e7a0-3020-ae7f-bc5ae6f5a036?exportCsv=true&name=HRC+Corporation",
+            "remote": false,
+            "suppressUiLink": false,
+            "demoFeature": false,
+            "type": "LocalReportType",
+            "concatId": null
+          },
+          {
+            "id": "company_decision_matrix",
+            "label": "Contact Decision Matrix",
+            "isPromo": true,
+            "promoType": "essentials"
+          },
+          {
+            "id": "corporate_overview",
+            "label": "Corporate Overview",
+            "isPromo": true,
+            "promoType": "essentials"
+          }
+        ]
+      },
+      {
+        "id": "news",
+        "label": "Advanced",
+        "reportTypes": [
+          {
+            "id": "company_peers",
+            "label": "Closest Industry Peers",
+            "url": "/api/report/company/d5278353-e7a0-3020-ae7f-bc5ae6f5a036/company_peers",
+            "remote": false,
+            "reportType": "company",
+            "suppressUiLink": false,
+            "filterJson": "[{\"facetName\":\"companyIdFilter\",\"value\":\"d5278353-e7a0-3020-ae7f-bc5ae6f5a036\", \"label\": \"NOT HRC Corporation\",\"extraPayload\":{\"exclude\":true}},\n{\"facetName\":\"geoDistanceFilter\",\"distances\":[{\"distance\":100.0,\"latitude\":40.739927,\"longitude\":-73.99097}]},\n{\"facetName\": \"industryFilter\", \"value\":\"e446e3e8-9873-38a3-b9db-84490f0e16d9\"}]",
+            "orFilterJson": "",
+            "sortByJson": "[{\"company\":[{\"addresses.location_latlon\":{\"sortFn\": \"_geo_distance\", \"order\": \"asc\", \"latitude\" : 40.739927, \"longitude\": -73.99097}}]}]",
+            "demoFeature": false,
+            "type": "SearchReportType",
+            "concatId": "closest-industry-peers"
+          },
+          {
+            "id": "company_closest",
+            "label": "Closest Companies",
+            "url": "/api/report/company/d5278353-e7a0-3020-ae7f-bc5ae6f5a036/company_closest",
+            "remote": false,
+            "reportType": "company",
+            "suppressUiLink": false,
+            "filterJson": "[{\"facetName\":\"companyIdFilter\",\"value\":\"d5278353-e7a0-3020-ae7f-bc5ae6f5a036\",\"label\":\"NOT HRC Corporation\",\"extraPayload\":{\"exclude\":true}},{\"facetName\":\"geoDistanceFilter\",\"distances\":[{\"distance\":100.0,\"latitude\":40.739927,\"longitude\":-73.99097}]}]",
+            "orFilterJson": "",
+            "sortByJson": "[{\"company\":[{\"addresses.location_latlon\":{\"sortFn\": \"_geo_distance\", \"order\": \"asc\", \"latitude\" : 40.739927, \"longitude\": -73.99097}}]}]",
+            "demoFeature": false,
+            "type": "SearchReportType",
+            "concatId": "closest-companies"
+          },
+          {
+            "id": "company_technologies_in_use",
+            "label": "Technologies in Use",
+            "isPromo": true,
+            "promoType": "essentials"
+          },
+          {
+            "id": "company_bombora_intent_topics",
+            "label": "Bombora Intent Topics",
+            "isPromo": true,
+            "promoType": "essentials"
+          }
+        ]
+      },
+      {
+        "id": "premium_reports",
+        "label": "premium_reports",
+        "reportTypes": [
+          {
+            "id": "company_crush",
+            "label": "CRUSH",
+            "isPromo": true,
+            "promoType": "essentials"
+          }
+        ],
+        "isPromo": true,
+        "promoType": "essentials"
+      }
+    ],
+    "lists": []
+  },
+  "myFiltersAndFacets": {
+    "primitives": [
+      {
+        "id": "event",
+        "label": "Trigger",
+        "pluralLabel": "Triggers",
+        "searchSystem": "elasticSearch"
+      },
+      {
+        "id": "industry",
+        "label": "Industry",
+        "pluralLabel": "Industries",
+        "searchSystem": "elasticSearch"
+      },
+      {
+        "id": "article",
+        "label": "News",
+        "pluralLabel": "News",
+        "searchSystem": "elasticSearch"
+      },
+      {
+        "id": "contact",
+        "label": "Contact",
+        "pluralLabel": "Contacts",
+        "searchSystem": "elasticSearch"
+      },
+      {
+        "id": "company",
+        "label": "Company",
+        "pluralLabel": "Companies",
+        "searchSystem": "elasticSearch"
+      },
+      {
+        "id": "secFiling",
+        "label": "SEC Filing",
+        "pluralLabel": "SEC Filings",
+        "searchSystem": "elasticSearch"
+      }
+    ],
+    "searchControlCategories": []
+  }
+}
