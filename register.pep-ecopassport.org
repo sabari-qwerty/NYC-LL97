@@ -1,0 +1,113 @@
+{
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/sabari-qwerty/NYC-LL97/blob/main/register.pep-ecopassport.org\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "from json import load, dump\n",
+        "\n",
+        "keys_list = []\n",
+        "unquik_list = []\n",
+        "\n",
+        "with open('old.json', 'r') as f:\n",
+        "\n",
+        "    res = load(f)\n",
+        "\n",
+        "    for item in res:\n",
+        "\n",
+        "      text = item.setdefault('h1 text', False)\n",
+        "\n",
+        "      if text:\n",
+        "\n",
+        "        if text not in keys_list:\n",
+        "          keys_list.append(text)\n",
+        "          unquik_list.append(item)\n",
+        "\n",
+        "\n",
+        "with open('new_old.json', 'w') as f:\n",
+        "  dump(unquik_list, f, indent=4, ensure_ascii=False)\n",
+        "\n",
+        "    # print(res)\n",
+        "\n",
+        "    # print(len(set(res)))\n",
+        "\n",
+        "    # for item in res:\n",
+        "\n",
+        "    #   print(item)"
+      ],
+      "metadata": {
+        "collapsed": true,
+        "id": "9HrWE6EXuLCa"
+      },
+      "execution_count": 24,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "from google.colab import drive\n",
+        "drive.mount('/content/drive')"
+      ],
+      "metadata": {
+        "id": "FYu85PDq6Bda"
+      },
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "from json import load\n",
+        "\n",
+        "with open('new_old.json', 'r') as f:\n",
+        "\n",
+        "  res = load(f)\n",
+        "\n",
+        "  print(len(res))\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "m8ZoNQZ5301A",
+        "outputId": "a8528998-56e0-44cf-c1dc-bde13a4667ac"
+      },
+      "execution_count": 25,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "1227\n"
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "colab": {
+      "name": "Welcome To Colab",
+      "provenance": [],
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "display_name": "Python 3",
+      "name": "python3"
+    }
+  },
+  "nbformat": 4,
+  "nbformat_minor": 0
+}
